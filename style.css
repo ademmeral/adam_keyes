@@ -50,14 +50,11 @@
 
     margin: 0;
     padding: 0;
-
-    z-index: 1;
 }
 body{
     font-family: 'Space Grotesk', sans-serif;
     color: #ddd;
 
-    min-width: 100vw;
     min-height: 100vh;
 
     background-image: var(--BODY-BG-IMG);
